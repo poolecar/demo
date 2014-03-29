@@ -3,7 +3,7 @@ body {
 	background-color:#000000;
 	color:#c0c0c0;
 	}
-	
+
 h1 {
 	font-size:38px;
 	color:#191970;
@@ -27,8 +27,8 @@ h4, h5, h6 {
 	}
 
 a {
-	text-decoration:none;
-	color:#ffffff;
+	text-decoration:bold;
+	color:#afeeee;
 	}
 	
 a:hover {
